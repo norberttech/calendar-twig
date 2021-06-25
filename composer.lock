@@ -8,24 +8,23 @@
     "packages": [
         {
             "name": "aeon-php/calendar",
-            "version": "0.7.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aeon-php/calendar.git",
-                "reference": "8a2d26e06c0fd696922682d8f080abf16a5d383b"
+                "reference": "5899c465ac30e8bf9d7dd324d1d711bccef694f1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/8a2d26e06c0fd696922682d8f080abf16a5d383b",
-                "reference": "8a2d26e06c0fd696922682d8f080abf16a5d383b",
+                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/5899c465ac30e8bf9d7dd324d1d711bccef694f1",
+                "reference": "5899c465ac30e8bf9d7dd324d1d711bccef694f1",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.4.2"
+                "php": "^7.4.2 || ^8.0"
             },
             "require-dev": {
-                "ext-bcmath": "*",
-                "phpunit/phpunit": "^9.3"
+                "ext-bcmath": "*"
             },
             "suggest": {
                 "ext-bcmath": "Compare time units with high precision"
@@ -56,7 +55,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2020-09-20T16:55:02+00:00"
+            "time": "2021-06-25T17:04:43+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -2121,12 +2120,12 @@
             "version": "1.9.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/webmozart/assert.git",
+                "url": "https://github.com/webmozarts/assert.git",
                 "reference": "bafc69caeb4d49c39fd0779086c03a3738cbb389"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webmozart/assert/zipball/bafc69caeb4d49c39fd0779086c03a3738cbb389",
+                "url": "https://api.github.com/repos/webmozarts/assert/zipball/bafc69caeb4d49c39fd0779086c03a3738cbb389",
                 "reference": "bafc69caeb4d49c39fd0779086c03a3738cbb389",
                 "shasum": ""
             },
